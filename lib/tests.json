@@ -1,0 +1,201 @@
+{
+    "checkins-CHECKIN_ID": {
+        "auth": true, 
+        "url": "checkins/4d627f6814963704dc28ff94?signature=LPtzP4edmpbaspdKhI9-892UoFM"
+    }, 
+    "checkins-CHECKIN_ID-likes": {
+        "url": "checkins/502bcde16de4146b7f104ac6/likes?"
+    }, 
+    "checkins-recent": {
+        "auth": true, 
+        "url": "checkins/recent&limit=5?"
+    }, 
+    "events-EVENT_ID": {
+        "auth": true, 
+        "url": "events/4d0fb8162d39a340637dc42b?"
+    }, 
+    "events-categories": {
+        "url": "events/categories?"
+    }, 
+    "events-search": {
+        "url": "events/search?domain=songkick.com&eventId=8183976"
+    }, 
+    "lists-LIST_ID": {
+        "url": "lists/self/tips&limit=5?"
+    }, 
+    "lists-LIST_ID-ITEM_ID": {
+        "auth": true, 
+        "url": "lists/4de0106f3151d414eb1dd445/t4c0bd4fb4d49ef3b9df85b6a?"
+    }, 
+    "lists-LIST_ID-saves": {
+        "url": "tips/4e5b969ab61c4aaa3e183989/saves?"
+    }, 
+    "multi": {
+        "url": "multi?requests=/users/self,/settings/all"
+    }, 
+    "pages-PAGE_ID-venues": {
+        "url": "pages/1070527/venues&limit=5?"
+    }, 
+    "pages-USER_ID": {
+        "auth": true, 
+        "url": "pages/1070527?"
+    }, 
+    "pages-USER_ID-similar": {
+        "auth": true, 
+        "url": "pages/1070527/similar&limit=5?"
+    }, 
+    "pages-search": {
+        "auth": true, 
+        "url": "pages/search?name=Starbucks"
+    }, 
+    "photos-PHOTO_ID": {
+        "auth": true, 
+        "url": "photos/4d0fb8162d39a340637dc42b?"
+    }, 
+    "settings-SETTING_ID": {
+        "auth": true, 
+        "url": "settings/receivePings?"
+    }, 
+    "settings-all": {
+        "auth": true, 
+        "url": "settings/all?"
+    }, 
+    "specials-SPECIAL_ID": {
+        "url": "specials/4e0debea922e6f94b1410bb7?venueId=4e0deab3922e6f94b1410af3"
+    }, 
+    "specials-search": {
+        "url": "specials/search?ll=40.7,-73.9&limit=5"
+    }, 
+    "tips-TIP_ID": {
+        "url": "tips/4b5e662a70c603bba7d790b4?"
+    }, 
+    "tips-TIP_ID-likes": {
+        "url": "tips/4e5b969ab61c4aaa3e183989/likes?"
+    }, 
+    "tips-TIP_ID-listed": {
+        "url": "tips/4e5b969ab61c4aaa3e183989/listed?"
+    }, 
+    "tips-TIP_ID-saves": {
+        "url": "tips/4e5b969ab61c4aaa3e183989/saves?"
+    }, 
+    "tips-search": {
+        "url": "tips/search?ll=40.7,-74&limit=5"
+    }, 
+    "updates-notifications": {
+        "auth": true, 
+        "url": "updates/notifications&limit=5?"
+    }, 
+    "users-USER_ID": {
+        "auth": true, 
+        "url": "users/self?"
+    }, 
+    "users-USER_ID-badges": {
+        "auth": true, 
+        "url": "users/self/badges?"
+    }, 
+    "users-USER_ID-checkins": {
+        "auth": true, 
+        "url": "users/self/checkins&limit=5?"
+    }, 
+    "users-USER_ID-friends": {
+        "auth": true, 
+        "url": "users/self/friends&limit=5?"
+    }, 
+    "users-USER_ID-lists": {
+        "auth": true, 
+        "url": "users/self/lists?"
+    }, 
+    "users-USER_ID-mayorships": {
+        "auth": true, 
+        "url": "users/self/mayorships?"
+    }, 
+    "users-USER_ID-photos": {
+        "auth": true, 
+        "url": "users/self/photos&limit=5?"
+    }, 
+    "users-USER_ID-tips": {
+        "auth": true, 
+        "url": "users/self/tips?sort=recent&limit=5"
+    }, 
+    "users-USER_ID-todos": {
+        "auth": true, 
+        "url": "users/self/todos?sort=recent"
+    }, 
+    "users-USER_ID-venuehistory": {
+        "auth": true, 
+        "url": "users/self/venuehistory?"
+    }, 
+    "users-USER_ID-venuestats": {
+        "auth": true, 
+        "url": "users/self/venuestats?"
+    }, 
+    "users-leaderboard": {
+        "auth": true, 
+        "url": "users/leaderboard?"
+    }, 
+    "users-requests": {
+        "auth": true, 
+        "url": "users/requests?"
+    }, 
+    "users-search": {
+        "auth": true, 
+        "url": "users/search?twitter=naveen"
+    }, 
+    "users-suggest": {
+        "auth": true, 
+        "url": "users/suggest?type=page&limit=5"
+    }, 
+    "venues-VENUE_ID": {
+        "url": "venues/40a55d80f964a52020f31ee3?"
+    }, 
+    "venues-VENUE_ID-events": {
+        "url": "venues/40afe980f964a5203bf31ee3/events?"
+    }, 
+    "venues-VENUE_ID-herenow": {
+        "auth": true, 
+        "url": "venues/40a55d80f964a52020f31ee3/herenow&limit=5?"
+    }, 
+    "venues-VENUE_ID-hours": {
+        "url": "venues/40a55d80f964a52020f31ee3/hours?"
+    }, 
+    "venues-VENUE_ID-likes": {
+        "url": "venues/40a55d80f964a52020f31ee3/likes?"
+    }, 
+    "venues-VENUE_ID-links": {
+        "url": "venues/3fd66200f964a52074e31ee3/links?"
+    }, 
+    "venues-VENUE_ID-listed": {
+        "url": "venues/4989af90f964a5207f521fe3/listed&limit=5?"
+    }, 
+    "venues-VENUE_ID-menu": {
+        "url": "venues/47a1bddbf964a5207a4d1fe3/menu?"
+    }, 
+    "venues-VENUE_ID-nextvenues": {
+        "url": "venues/40a55d80f964a52020f31ee3/nextvenues?"
+    }, 
+    "venues-VENUE_ID-photos": {
+        "url": "venues/43695300f964a5208c291fe3/photos&limit=5?"
+    }, 
+    "venues-VENUE_ID-similar": {
+        "auth": true, 
+        "url": "venues/40a55d80f964a52020f31ee3/similar?"
+    }, 
+    "venues-VENUE_ID-tips": {
+        "url": "venues/40a55d80f964a52020f31ee3/tips?sort=recent&limit=5"
+    }, 
+    "venues-categories": {
+        "url": "venues/categories?"
+    }, 
+    "venues-explore": {
+        "url": "venues/explore?ll=40.7,-74&limit=5"
+    }, 
+    "venues-search": {
+        "url": "venues/search?ll=40.7,-74&limit=5"
+    }, 
+    "venues-suggestcompletion": {
+        "url": "venues/suggestCompletion?ll=40.7,-74&query=foursqu&limit=5"
+    }, 
+    "venues-trending": {
+        "url": "venues/trending?ll=40.7,-74&limit=5"
+    }
+}

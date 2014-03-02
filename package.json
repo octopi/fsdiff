@@ -1,0 +1,40 @@
+{
+  "name": "fsdiff",
+  "description": "Investigate differences between versions of the Foursquare API",
+  "version": "0.1.0",
+  "homepage": "TODO",
+  "author": {
+    "name": "David Hu",
+    "email": "octopie@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "TODO"
+  },
+  "bugs": {
+    "url": "TODO"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "TODO"
+    }
+  ],
+  "main": "lib",
+  "engines": {
+    "node": "0.8"
+  },
+  "dependencies": {
+    "async": "~0.2.1",
+    "colors": "~0.6.2",
+    "diff": "~1.0",
+    "minimist": "~0.0.8",
+    "prompt": "~0.2.12",
+    "request": "~2.34.0"
+  },
+  "keywords": [],
+  "preferGlobal": "true",
+  "bin": {
+    "fsdiff": "lib/fsapidiff.js"
+  }
+}
