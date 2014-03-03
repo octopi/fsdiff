@@ -5,7 +5,7 @@ of the [Foursquare API](https://developer.foursquare.com/).
 
 ## Installation
 
-    npm install fsdiff
+    npm install fsdiff -g
 
 This should create a globally-available `fsdiff` command.
 
