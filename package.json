@@ -2,7 +2,7 @@
   "name": "fsdiff",
   "description": "Investigate differences between versions of the Foursquare API",
   "version": "0.1.1",
-  "homepage": "TODO",
+  "homepage": "https://github.com/octopi/fsdiff",
   "author": {
     "name": "David Hu",
     "email": "octopie@gmail.com"
