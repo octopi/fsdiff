@@ -1,7 +1,7 @@
 {
   "name": "fsdiff",
   "description": "Investigate differences between versions of the Foursquare API",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "homepage": "https://github.com/octopi/fsdiff",
   "author": {
     "name": "David Hu",
